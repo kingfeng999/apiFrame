@@ -1,0 +1,9 @@
+2020-09-11 05:33:00,043 INFO [root] [payOrderApi.py (__init__:22] - self.url的值是：None
+2020-09-11 05:33:00,349 INFO [root] [orderApi.py (order:33] - config.JUMP_URL 的值是：http://192.168.0.13/mtx/index.php?s=/index/order/pay/id/92.html
+2020-09-11 05:34:30,940 INFO [root] [payOrderApi.py (__init__:22] - self.url的值是：None
+2020-09-11 05:34:31,241 INFO [root] [orderApi.py (order:33] - config.JUMP_URL 的值是：http://192.168.0.13/mtx/index.php?s=/index/order/pay/id/93.html
+2020-09-11 05:42:06,919 INFO [root] [payOrderApi.py (__init__:22] - self.url的值是:None
+2020-09-11 05:42:07,312 INFO [root] [orderApi.py (order:33] - config.JUMP_URL 的值是：http://192.168.0.13/mtx/index.php?s=/index/order/pay/id/94.html
+2020-09-11 06:15:57,862 INFO [root] [orderApi.py (order:33] - 提交订单提取的JUMP_URL的值是：http://192.168.0.13/mtx/index.php?s=/index/order/pay/id/95.html
+2020-09-11 06:15:57,871 INFO [root] [payOrderApi.py (__init__:22] - 支付接口的url是:http://192.168.0.13/mtx/index.php?s=/index/order/pay/id/95.html
+2020-09-11 06:15:58,738 INFO [root] [orderApi.py (order:33] - 提交订单提取的JUMP_URL的值是：http://192.168.0.13/mtx/index.php?s=/index/order/pay/id/96.html

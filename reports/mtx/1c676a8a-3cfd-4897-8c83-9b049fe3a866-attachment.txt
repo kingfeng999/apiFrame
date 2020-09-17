@@ -1,0 +1,1 @@
+[32mINFO    [0m root:orderApi.py:33 提交订单提取的JUMP_URL的值是：http://192.168.0.13/mtx/index.php?s=/index/order/pay/id/95.html
